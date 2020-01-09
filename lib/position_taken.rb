@@ -1,5 +1,5 @@
 def position_taken?(board, index)
-  if [board, index] == [board, (" ")]
+  if [index] == (" ")
     false
   end
 end
