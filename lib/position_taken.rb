@@ -1,5 +1,5 @@
 def position_taken?(board, index)
-  if position_taken?[index_number] == position_taken?[(" ")]
+  if [index_number] == [(" ")]
     false
   end
 end
